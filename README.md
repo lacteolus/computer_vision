@@ -1,2 +1,2 @@
 # computer_vision
-MIPT course - ML master
+MIPT course - ML Master's program
